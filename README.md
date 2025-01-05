@@ -9,7 +9,7 @@ Clean and user-friendly interface
 Clone the repository
 Open index.html in your browser to use the stopwatch
 🎯 Live Demo
-Check out the live demo here: [Link to Live Demo]
+Check out the live demo here: [https://arnavrastogii.github.io/PRODIGY_WD_02/]
 
 This project demonstrates the integration of web technologies to create a functional and visually appealing application. Perfect for learning and time tracking!
 
